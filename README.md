@@ -23,4 +23,4 @@ This tool scans QR codes, extracts embedded URLs, and flags suspicious or phishi
 - **API Integration:** Google Safe Browsing API, VirusTotal API  
 
 ---
-
+**Author:** Faris Ali  
