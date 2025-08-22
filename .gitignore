@@ -1,0 +1,13 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Flask uploads and temp files
+uploads/
+*.sqlite3
+
+# Environment variables
+.env
